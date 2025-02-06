@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PabRbwFF00GsacdIM5vbhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="8075b427-1d6a-44d6-838e-adbdfa85789a" CvElementArea="27, 308, 88, 60" CvType="Button" DesignTimeRectangle="41, 328, 25, 21" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl parentid='nav-hamburger-menu' tag='I' type='' class='hm-icon nav-sprite' aaname='' /&gt;" Guid="fb77dbda-6763-412a-be7c-35bd65ccd912" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8075b427-1d6a-44d6-838e-adbdfa85789a" CvElementArea="27, 308, 88, 60" CvTextArea="73, 326, 29, 22" CvTextArgument="All" CvType="Button" DesignTimeRectangle="66, 329, 35, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='nav-hamburger-menu' tag='SPAN' type='' class='hm-icon-label' aaname='All' check:innerText='All' /&gt;" Guid="4b5c6a59-c8bb-475d-943d-97157ce71ee9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8bafe9b5c0256402d6737e6f77b56891.png" xmlns="">0xjTW68yrgUWohgKofpew2w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

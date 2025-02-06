@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DIfqvZUrIUed4GH82gY2zw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="9101204a-1f8b-4785-b805-cceef3fd1506" CvTextArea="63, 1023, 87, 24" CvType="AnyWordGroup" DesignTimeRectangle="11, 1003, 523, 63" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='hmenu-item' tag='A' visibleinnertext='Sign Out' type='' /&gt;" Guid="94e7e039-7565-41e8-b98d-bc69bbbeb8f0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="381f80918739e08b37a6688e94a7c2ea.png" xmlns="">0YAX3zlWneUKFZ64HAaM4Xw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

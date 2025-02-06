@@ -44,9 +44,24 @@
     "fileInfoCollection": [
       {
         "editingStatus": "InProgress",
-        "testCaseId": "b658883c-b8c8-4976-83aa-e16983c83717",
+        "testCaseId": "cd444b3d-3bc7-4f63-807d-a56ba7d10e4f",
         "testCaseType": "TestCase",
-        "fileName": "TestCase.xaml"
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_SignIn.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3560661e-54b3-4d44-831d-66505c9328c8",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_AddItemToCart.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "62a9d6b5-25b6-43fc-882e-cce38feb7343",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_Checkout.xaml"
       }
     ],
     "saveToCloud": false

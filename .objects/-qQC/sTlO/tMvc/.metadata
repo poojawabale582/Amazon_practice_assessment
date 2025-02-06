@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Online Shopping site in India Shop Onl(2)",
+  "Type": "Screen",
+  "Id": "tMvcNZeCUEOuqQ8ew6zbPA",
+  "Reference": "EdWjsLECz0irOqCNB8r4TA/tMvcNZeCUEOuqQ8ew6zbPA",
+  "ParentRef": "EdWjsLECz0irOqCNB8r4TA/sTlONUws4kKpL2z3mZVRqA",
+  "Created": "2025-02-06T17:48:22.8331444Z",
+  "Updated": "2025-02-06T17:48:22.8331444Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

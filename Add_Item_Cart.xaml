@@ -99,25 +99,25 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Add_Item_Card" sap:VirtualizedContainerService.HintSize="1056,1742" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Add_Item_Card" sap:VirtualizedContainerService.HintSize="1056,1878.6666666666667" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Add_item_to_cart" sap:VirtualizedContainerService.HintSize="1056,1719.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence DisplayName="Add_item_to_cart" sap:VirtualizedContainerService.HintSize="1056,1856" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Chrome Online Shopping site in India Shop Onl(1)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1022,1636.6666666666667" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="7fe27c7e-2734-4baa-9fed-a88bae082761" Version="V2">
+      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Chrome Online Shopping site in India Shop Onl(1)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1022,1773.3333333333333" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="7fe27c7e-2734-4baa-9fed-a88bae082761" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="988,1394.6666666666667" sap2010:WorkflowViewState.IdRef="Sequence_3">
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="988,1531.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_3">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -127,7 +127,7 @@
                 <uix:NTypeInto.Target>
                   <uix:TargetAnchorable BrowserURL="amazon.in" CVScreenId="d9e8a576-af9a-49d9-a80d-4a1958978ed9" ContentHash="Vdm0mZyIEkOaqTp4OMgUcQ" CvElementArea="589, 155, 664, 60" CvType="InputBox" DesignTimeRectangle="591, 157, 657, 57" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='twotabsearchtextbox' tag='INPUT' type='text' class='nav-input nav-progressive-attribute' placeholder='Search Amazon.in' aaname='Search Amazon.in' /&gt;" Guid="80d8a29e-be8b-4395-92d6-2c36ed6d9264" InformativeScreenshot="8b30690af9d91910189bde03d97f6430.png" IsResponsive="True" Reference="EdWjsLECz0irOqCNB8r4TA/61x_ABKW3U2tMvp_7lq-gA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
                     <uix:TargetAnchorable.Anchors>
-                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                         <uix:Target CVScreenId="d9e8a576-af9a-49d9-a80d-4a1958978ed9" CvTextArea="528, 177, 24, 16" CvTextArgument="All" CvType="Text" DesignTimeRectangle="530, 162, 29, 49" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-search-label-id' tag='SPAN' type='' class='nav-search-label nav-progressive-content' aaname='All' check:innerText='All' /&gt;" Guid="ddd2d5f7-00ce-456c-b87f-175b4be2f25c" SearchSteps="FuzzySelector, CV" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
@@ -197,23 +197,25 @@
                   </uix:VerifyExecutionOptions>
                 </uix:NClick.VerifyOptions>
               </uix:NClick>
-              <uix:NCheckState DisplayName="Check App State 'Sony BRAVIA 2 Series 10…'" sap:VirtualizedContainerService.HintSize="954,340" sap2010:WorkflowViewState.IdRef="NCheckState_4" ScopeIdentifier="7fe27c7e-2734-4baa-9fed-a88bae082761" Version="V4">
+              <uix:NCheckState DisplayName="Check App State 'Sony BRAVIA 2 Series 10…'" sap:VirtualizedContainerService.HintSize="954,476.6666666666667" sap2010:WorkflowViewState.IdRef="NCheckState_4" ScopeIdentifier="7fe27c7e-2734-4baa-9fed-a88bae082761" Version="V4">
                 <uix:NCheckState.IfExists>
-                  <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="450,93.33333333333333" sap2010:WorkflowViewState.IdRef="Sequence_10">
+                  <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="450,232.66666666666666" sap2010:WorkflowViewState.IdRef="Sequence_10">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
+                    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,172.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Item added to the cart&quot;]" />
                   </Sequence>
                 </uix:NCheckState.IfExists>
                 <uix:NCheckState.IfNotExists>
-                  <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="450,93.33333333333333" sap2010:WorkflowViewState.IdRef="Sequence_11">
+                  <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="450,232.66666666666666" sap2010:WorkflowViewState.IdRef="Sequence_11">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
+                    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,172.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Error" Message="[&quot;Failed to add item in the cart&quot;]" />
                   </Sequence>
                 </uix:NCheckState.IfNotExists>
                 <uix:NCheckState.Target>
