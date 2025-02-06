@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sony BRAVIA 2 Series 10…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "pn1yhPaNSkOcHskFHtcbqQ",
+  "Reference": "EdWjsLECz0irOqCNB8r4TA/pn1yhPaNSkOcHskFHtcbqQ",
+  "ParentRef": "EdWjsLECz0irOqCNB8r4TA/QPD1-ZwW5kq9E5FO2kT5kg",
+  "Created": "2025-02-05T18:37:47.6159664Z",
+  "Updated": "2025-02-05T18:37:47.6159664Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

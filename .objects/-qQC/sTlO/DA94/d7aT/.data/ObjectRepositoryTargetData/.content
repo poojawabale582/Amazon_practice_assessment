@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yARWfzlFfkaikH1pGJZzEw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" CVScreenId="10dff8b6-03db-4893-8ed5-160c0ac97f17" CvElementArea="1122, 972, 143, 51" CvTextArea="1142, 987, 103, 20" CvTextArgument="Add to cart" CvType="Button" DesignTimeRectangle="1126, 975, 135, 45" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='a-button-text' aaname='Add to cart' tag='BUTTON' type='button' check:innerText='Add to cart' /&gt;" Guid="a07de1c1-d321-4af6-95f5-7f54bf10a7ae" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='https://m.media-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,01MLbr4kpjL.css,51FIeTurRAL.css,31fFxDf00KL.css,012SlIQp3XL.css,11D3BPoiHRL.css,01qDClimA1L.css,01pOTCa2wPL.css,413Vvv3GONL.css,11TIuySqr6L.css,01Rw4F+QU6L.css,11JJsNcqOIL.css,01J3raiFJr*' title='Amazon.in : shoes' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f22a258df16bfadbfbdad39ea4200df0.png" xmlns="">0mUK9sMAJqkqmFSdjNVzZQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

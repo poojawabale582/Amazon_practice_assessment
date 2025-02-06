@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xc0s0WIZs0G0pvo8F_7uiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/gp/cart/view.html" CVScreenId="d8efa137-1a34-42c3-86d8-267bd9acf1d1" CvElementArea="1459, 562, 392, 52" CvTextArea="1586, 578, 134, 22" CvTextArgument="Proceed to Buy" CvType="Button" DesignTimeRectangle="1460, 565, 388, 45" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-labelledby='sc-buy-box-ptc-button-announce' tag='INPUT' type='submit' class='a-button-input' aaname='Proceed to checkout' check:text='Proceed to checkout' /&gt;" Guid="61d75c6d-7d38-4ab9-a8b9-30e5b27f0c0f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in Shopping Cart' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4d4432ff7a4161630b7c64c0c4fb4ea6.png" xmlns="">0Q9-Cem54mkydmeXUInVJTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

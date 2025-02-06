@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT continue",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Kn2G8EZ5eE2xDBwmgZoAUg",
+  "Reference": "EdWjsLECz0irOqCNB8r4TA/Kn2G8EZ5eE2xDBwmgZoAUg",
+  "ParentRef": "EdWjsLECz0irOqCNB8r4TA/d9CjkAJx-Ueye6rhvc108w",
+  "Created": "2025-02-05T17:42:49.9835451Z",
+  "Updated": "2025-02-05T17:42:49.9835451Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

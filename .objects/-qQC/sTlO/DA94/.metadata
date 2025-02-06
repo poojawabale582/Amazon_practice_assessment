@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.in  shoes",
+  "Type": "Screen",
+  "Id": "DA943K9wl0moj0AutPVRYA",
+  "Reference": "EdWjsLECz0irOqCNB8r4TA/DA943K9wl0moj0AutPVRYA",
+  "ParentRef": "EdWjsLECz0irOqCNB8r4TA/sTlONUws4kKpL2z3mZVRqA",
+  "Created": "2025-02-05T15:55:09.974067Z",
+  "Updated": "2025-02-05T15:55:09.974067Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

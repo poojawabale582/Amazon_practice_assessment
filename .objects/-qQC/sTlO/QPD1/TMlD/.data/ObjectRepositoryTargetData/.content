@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WOPaZByERke3FXhRicVEMg" Reference="EdWjsLECz0irOqCNB8r4TA/TMlDaJ_mfUmSSN_i_kTU6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/gp/cart/view.html" CVScreenId="ce370f1f-6834-4590-93c3-79f4c1eb8e19" CvTextArea="1841, 186, 37, 19" CvTextArgument="Cart" CvType="Text" DesignTimeRectangle="1764, 149, 126, 75" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-cart' tag='A' type='' class='nav-a nav-a-2 nav-progressive-attribute' aaname='            1                                                         Cart                        ' check:innerText='1&amp;#xA;Cart' /&gt;" Guid="30d1c9db-5b65-4a5d-a06f-29798b354687" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in Shopping Cart' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1645, 149, 116, 75" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-orders' tag='A' type='' class='nav-a nav-a-2   nav-progressive-attribute' aaname='   Returns   &amp;amp; Orders ' check:innerText='Returns&amp;#xA;&amp;amp; Orders' /&gt;" Guid="3b982481-4af9-4ad8-944c-fbafea985dcd" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bd6f185a70dafa8f8204d57438cb9a5e.png" xmlns="">03DVKxLSFXUWXF_RTcKeUFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

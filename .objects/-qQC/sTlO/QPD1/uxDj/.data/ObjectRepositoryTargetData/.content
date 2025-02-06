@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Njc8kRZE2UKsT8NOeUKH_A" Reference="EdWjsLECz0irOqCNB8r4TA/uxDjxkqwpkOaIhc4LY4TFw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" CVScreenId="f18be339-b5bf-4b6d-9f6e-9df0426e80a6" CvTextArea="1645, 186, 38, 19" CvTextArgument="Cart" CvType="Text" DesignTimeRectangle="1569, 149, 126, 75" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-cart' tag='A' type='' class='nav-a nav-a-2 nav-progressive-attribute' aaname='            1                                                         Cart                        ' check:innerText='1&amp;#xA;Cart' /&gt;" Guid="3498bff6-a292-44e5-8ad5-0e1daddfc9c0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : Sony BRAVIA 2 Series 108 cm (43 inches) 4K Ultra HD Smart LED Google TV K-43S20B (Black)' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1450, 149, 116, 75" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-orders' tag='A' type='' class='nav-a nav-a-2   nav-progressive-attribute' aaname='   Returns   &amp;amp; Orders ' check:innerText='Returns&amp;#xA;&amp;amp; Orders' /&gt;" Guid="d667352f-63d9-4e06-bc96-890f0dd753c9" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2031517a0b0517e555ecd90aecbb5e7.png" xmlns="">0_bq1vs2ekUqyzQUMYENWXw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

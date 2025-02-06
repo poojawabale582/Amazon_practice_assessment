@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-BOksgnGfEWeBZgKVgG6vw" Reference="EdWjsLECz0irOqCNB8r4TA/70ui24nbR0K5Ple39sVlgA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" CVScreenId="f56ca44c-3fdc-4de6-8590-98f5db732de9" CvElementArea="783, 628, 144, 52" CvTextArea="803, 642, 103, 21" CvTextArgument="Add to cart" CvType="Button" DesignTimeRectangle="788, 631, 135, 45" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='a-autoid-3' tag='BUTTON' type='button' class='a-button-text' aaname='Add to cart' check:innerText='Add to cart' /&gt;" Guid="2bb45280-362f-426f-97d6-c06902069399" ScopeSelectorArgument="[string.Format(&quot;&lt;html app='chrome.exe' title='{0}' /&gt;&quot;, in_ProductName)]" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="787, 249, 1097, 72" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl aria-label='{0}' tag='H2' type='' class='a-size-medium a-spacing-none a-color-base a-text-normal' aaname='' check:innerText='{0}' /&gt;&quot;, in_ProductName)]" Guid="b0c607e0-fa92-480b-9225-d6bdfd6f2d14" ImageBase64="" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="abda19755370c51bdc188ba268e735eb.png" xmlns="">0q6RiitB-q0K9MjN0VXCbUg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Sony BRAVIA 2 Series 108 cm (43 inches) 4K Ultra HD Smart LED Google TV K-43S20B (Black)" IsVariable="False" Name="in_ProductName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

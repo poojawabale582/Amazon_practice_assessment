@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Yxl61tEo4kKElpRZmVEtmw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/gp/yourstore/home" CVScreenId="84cc92d1-da01-4c92-9ff3-a147b5795d74" CvTextArea="35, 164, 174, 33" CvTextArgument="amazon.in" CvType="Text" DesignTimeRectangle="29, 149, 195, 75" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-logo-sprites' tag='A' type='' class='nav-logo-link nav-progressive-attribute' aaname='                     .in     ' check:innerText='.in' /&gt;" Guid="4d1783e9-2a61-4428-ab23-d32756002b8b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Your Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1e3dabf418d6c5b9568c0307b53a1834.png" xmlns="">0rQmcxiBqtUml1O6pP0_a0g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

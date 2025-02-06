@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge UiPath_Test_Suite_Practice_Assesment",
+  "Type": "Screen",
+  "Id": "5cbphFA59kevtcWeVUy1PQ",
+  "Reference": "EdWjsLECz0irOqCNB8r4TA/5cbphFA59kevtcWeVUy1PQ",
+  "ParentRef": "EdWjsLECz0irOqCNB8r4TA/UzhlR7PSu0qIUcaruIfKsQ",
+  "Created": "2025-02-05T15:48:51.4432548Z",
+  "Updated": "2025-02-05T15:48:51.4432548Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
